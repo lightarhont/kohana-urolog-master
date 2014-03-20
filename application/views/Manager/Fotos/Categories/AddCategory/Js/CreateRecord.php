@@ -1,0 +1,3 @@
+function createrecord() {
+ $('#createrecord').submit()
+}

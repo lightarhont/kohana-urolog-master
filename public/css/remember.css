@@ -1,0 +1,143 @@
+div.rememberform {
+float:left;
+margin-top:30px;
+margin-bottom:300px;
+}
+
+div.rememberform p {
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+float:left;
+clear:both;
+margin-left:50px;
+}
+
+div.rememberform h3 {
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+float:left;
+clear:both;
+margin-left:50px;
+margin-bottom:0px;
+padding-bottom:0px;
+}
+
+#lvl1 {
+float:left;
+padding-left:7px;
+background-image:url(/public/images/form/t1.gif);
+background-repeat:no-repeat;
+}
+
+#lvl2 {
+background-image:url(/public/images/form/t2.gif);
+background-repeat:no-repeat;
+background-position:right;
+padding-right:7px;
+}
+
+#lvl3 {
+background-image:url(/public/images/form/t3.gif);
+background-repeat:repeat-x;
+background-color:#f0f0f0;
+}
+
+#lvl4 {
+background-image:url(/public/images/form/t3.gif);
+background-repeat:repeat-x;
+padding-top:6px;
+height:22px;
+background-position:bottom;
+}
+
+#lvl4 input {
+background-color:#f0f0f0;
+border:none;
+margin:0px;
+padding:0px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+div.rememberform label{
+float:left;
+margin-top:4px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+width:250px;
+}
+
+div.username-field, div.email-field {
+float:left;
+clear:both;
+margin-bottom:10px;
+margin-left:50px;
+}
+
+div.QapTcha-desc {
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+clear:both;
+margin-left:50px;
+margin-top:10px;
+}
+
+span.error_qaptcha {
+color:#FF0000;
+}
+
+div.QapTcha {
+margin-left:186px;
+margin-bottom:20px;
+clear:both;
+}
+
+div.btn1 {
+padding-left:7px;
+background-image:url(/public/images/form/b1.gif);
+background-repeat:no-repeat;
+cursor:pointer;
+}
+
+div.btn2 {
+background-image:url(/public/images/form/b2.gif);
+background-repeat:no-repeat;
+background-position:right;
+padding-right:7px;
+}
+
+div.btn3 {
+background-image:url(/public/images/form/t3.gif);
+background-repeat:repeat-x;
+background-color:#f0f0f0;
+}
+
+div.btn4 {
+height:28px;
+background-image:url(/public/images/form/t3.gif);
+background-repeat:repeat-x;
+background-position:bottom;
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+font-weight:bold;
+padding-left:8px;
+padding-right:8px;
+padding-top:8px;
+}
+
+div.submit-button {
+float:left;
+clear:both;
+padding-left:300px;
+}
+
+div.rememberform div.error {
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#FF0000;
+margin-top:4px;
+margin-left:30px;
+}

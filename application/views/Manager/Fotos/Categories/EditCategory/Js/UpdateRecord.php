@@ -1,0 +1,3 @@
+function updaterecord() {
+ $('#updaterecord').submit()
+}

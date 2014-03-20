@@ -1,0 +1,109 @@
+body {
+margin: 0px;
+padding: 0px;
+}
+
+div.centerall {
+display: block;
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+div.toppanel {
+float: left;
+padding-left: 30px;
+width: 968px;
+background-color: #dcdcdc;
+border-bottom:1px solid black;
+border-left:1px solid black;
+border-right:1px solid black;
+}
+
+div.toppanel ul {
+float: left;
+padding: 0px;
+margin: 0px;
+}
+
+div.toppanel li.mainlevel {
+float: left;
+margin-right: 10px;
+list-style: none;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+div.toppanel a {
+font-family: Arial, Tahoma;
+font-size: 15px;
+text-decoration: none;
+color: black;
+}
+
+div.toppanel a:hover {
+text-decoration: underline;
+}
+
+div.useradmin {
+float: left;
+margin-left: 500px;
+margin-top: 10px;
+}
+
+div.menuoptions {
+float: left;
+margin-top: 10px;
+}
+
+div.menuoptions ul {
+float: left;
+padding: 0px;
+margin: 0px;
+}
+
+div.menuoptions li {
+float: left;
+margin-right: 10px;
+list-style: none;
+}
+
+#nav ul {
+position:absolute;
+display:none;
+margin: 0px;
+padding-top: 10px;
+list-style:none;
+}
+
+#nav ul li {
+width:200px;
+float:left;
+clear: both;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 5px;
+background-color: #dcdcdc;
+border-left: solid 1px black;
+border-right: solid 1px black;
+}
+
+#nav ul li.last {
+border-bottom: solid 1px black;
+}
+
+div.menuoptions a {
+font-family: Arial, Tahoma;
+font-size: 15px;
+text-decoration: none;
+color: black;  
+}
+
+div.menuoptions a:hover {
+text-decoration: underline;
+}
+
+div.component {
+float: left;
+clear: both;
+}

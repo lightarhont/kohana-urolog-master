@@ -1,0 +1,3 @@
+function uploadimg() {
+ $('#upload').submit()
+}

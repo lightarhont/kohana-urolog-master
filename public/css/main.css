@@ -1,0 +1,281 @@
+body {
+margin:0px;
+padding:0px;}
+
+ul.mnu {
+margin:0px;
+padding:0px;}
+
+ul.mnu li {
+float:left;
+margin-left:0px;
+margin-right:2px;
+list-style:none;
+}
+
+ul.mnu a {
+display:block;
+font-family:Tahoma, Arial, Helvetica, sans-serif;
+background-image:url(/public/images/mnu.png);
+padding-bottom:7px;
+padding-right:20px;
+padding-left:20px;
+padding-top:6px;
+font-size:11px;
+font-weight:bold;
+text-decoration:none;
+color:#000000;
+}
+
+ul.mnu a:hover {
+color:#FFFFFF;
+background-image:url(/public/images/mnu2.png);
+}
+
+ul.mnu li.active {
+background-color:#FFFFFF;
+background-image:none;
+padding-bottom:7px;
+padding-right:20px;
+padding-left:20px;
+padding-top:6px;
+font-size:11px;
+font-weight:bold;
+font-family:Tahoma, Arial, Helvetica, sans-serif;
+}
+
+div.formlogin {
+width:350px;
+height:70px;
+margin-left:36px;
+float:left;
+}
+
+div.formlogin input {
+border:none;
+width:112px;
+}
+
+div.userlogin {
+background-image:url(/public/images/icon-user.gif);
+padding-left:20px;
+background-position:0px 4px;
+background-repeat:no-repeat;
+margin-right:10px;
+float:left;}
+
+div.userpass {
+background-image:url(/public/images/icon-key.gif);
+background-position:0px 4px;
+padding-left:20px;
+background-repeat:no-repeat;
+float:left;}
+
+div.formlogin1 {
+margin-top:4px;
+margin-bottom:8px;
+color:#FFFFFF;
+font-size:12px;
+font-family:Tahoma, Arial, Helvetica, sans-serif;
+text-decoration:underline;
+margin-left:107px;
+height:10px;
+width:200px;
+clear:both;
+}
+
+div.tologin {
+float:left;
+margin-left:10px;}
+
+div.tologin input {
+width:60px;
+}
+
+div.formlogin3 ul {
+margin:0px;
+padding:0px;}
+
+div.formlogin3 li {
+color:#FFFFFF;
+list-style:none;
+background-repeat:no-repeat;
+padding-top:0px;
+padding-left:15px;
+margin-right:20px;
+background-position:0px 9px;
+background-image:url(/public/images/marker.gif);
+float:left;}
+
+div.formlogin3 a {
+color:#FFFFFF;
+font-family:Tahoma, Arial, Helvetica, sans-serif;
+font-size:12px;}
+
+div.useroptions {
+float:left;
+padding-left:30px;
+padding-top:12px;
+}
+
+div.useroptions a {
+color:#FFFFFF;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+text-decoration:none;
+}
+
+div.greatings {
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#FFFFFF;
+font-weight:bold;
+clear:both;
+}
+
+div.useroptions a:hover {
+text-decoration:underline;
+}
+
+div.usermenu {
+clear:both;
+float:left;
+margin-top:5px;
+}
+
+div.usermenu div {
+float:left;
+margin-right:10px;
+}
+
+div.center {
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+}
+
+div.top {
+height:115px;
+width:1000px;
+background-image:url(/public/images/hd.png);
+float:left;
+}
+
+div.logo {
+height:86px;
+width:1000px;
+float:left;
+background-image:url(/public/images/logo.png);
+background-repeat:no-repeat;
+background-position:27px 0px;
+}
+
+div.sn {
+margin-left:467px;
+margin-top:16px;
+width:144px;
+height:34px;
+background-image:url(/public/images/sn.png);
+float:left;
+}
+
+div.sn a {
+float:left;
+width:30px;
+height:30px;
+}
+
+div.sn a.rss {
+margin-left:2px;
+margin-top:1px;
+}
+
+div.sn a.vkontakte {
+margin-left:8px;
+margin-top:1px;
+}
+
+div.sn a.facebook {
+margin-left:6px;
+margin-top:1px;
+}
+
+div.sn a.twitter {
+margin-left:6px;
+margin-top:1px;
+}
+
+div.menu {
+float:left;
+height:26px;
+width:730px;
+margin-top:3px;
+margin-left:14px;
+}
+
+/* Средние чанки */
+
+/* Футер */
+
+div.footer {
+width:972px;
+height:96px;
+float:left;
+background-color:#333333;
+padding-left:28px;
+padding-top:12px;
+}
+
+div.contacts {
+float:left;
+width:300px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+margin-right:70px;
+}
+
+div.contacts div.title {
+font-weight:bold;
+border-bottom:#FFFFFF solid 1px;
+width:200px;
+font-size:16px;
+float:left;
+}
+
+div.contacts div.margin-top5 {
+font-size:14px;
+float:left;
+clear:both;
+margin-top:5px;
+}
+
+div.contacts div.margin-top2 {
+font-size:14px;
+float:left;
+clear:both;
+margin-top:2px;
+}
+
+div.contacts div.contact {
+font-weight:bold;
+width:60px;
+float:left;
+}
+
+div.copyright {
+color:#FFFFFF;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+margin-top:60px;
+font-weight:bold;
+font-size:13px;
+}
+
+div.counters {
+margin-left:100px;
+margin-left:180px;
+margin-top:10px;
+float:left;
+}
+

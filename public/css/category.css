@@ -1,0 +1,129 @@
+div.lft {
+margin-left:12px;
+margin-right:10px;
+margin-top:10px;
+margin-bottom:55px;
+width:625px;
+float:left;
+}
+
+div.rgt {
+margin-top:10px;
+margin-bottom:55px;
+width:344px;
+float:left;
+}
+
+div.ht {
+background-image:url(/public/images/ht.png);
+float:left;
+}
+
+div.ht2 {
+background-image:url(/public/images/ht2.png);
+float:left;
+padding-left:20px;
+background-repeat:no-repeat;
+}
+
+div.ht3 {
+background-image:url(/public/images/ht3.png);
+background-position:right;
+background-repeat:no-repeat;
+width:306px;
+height:20px;
+border-bottom:#700000 solid 1px;
+float:left;
+color:#FFFFFF;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+padding-left:18px;
+margin-top:7px;
+font-size:14px;
+}
+
+div.cont {
+float:left;
+width:322px;
+border:solid 1px #bdbdbd;
+padding:10px;
+min-height:101px;
+}
+
+div.abouttext {
+float: left;
+clear: both;
+font-family: Tahoma, Arial;
+font-size: 14px;
+text-align: justify;
+text-indent: 10px;
+}
+
+table.catalogtable {
+width: 100%;
+}
+
+table.catalogtable tr.header td {
+ background-color: #cdcbcc !important;
+ border-bottom: solid 1px black;
+}
+
+table.catalogtable td.col1 {
+ padding-left: 5px;
+ border-right: solid 1px black;
+ width: 25px;
+ font-family: Tahoma, Arial;
+ font-size: 14px;
+}
+
+table.catalogtable td.col2 {
+ padding-left: 5px;
+ border-right: solid 1px black;
+ font-family: Tahoma, Arial;
+ font-size: 14px;
+}
+
+table.catalogtable td.col3 {
+ padding-left: 5px;
+ font-family: Tahoma, Arial;
+ font-size: 14px;
+}
+
+table.catalogtable td a {
+ font-family: Tahoma, Arial;
+ font-size: 14px;
+ color: #cc0000;
+ text-decoration: none;
+}
+
+table.catalogtable td a:hover {
+ text-decoration: underline;   
+}
+
+ div.itemtitle {
+  float: left;
+  width:625px;
+  padding-bottom: 4px;
+  padding-left: 1px;
+  border-bottom: solid 1px #999999;
+  font-family: Tahoma, Arial;
+  font-size: 16px;
+  font-weight: bold;
+ }
+ 
+ div.itemdate {
+  float: left;
+  width:625px;
+  font-family: Tahoma, Arial;
+  font-size: 11px;
+ }
+ 
+ div.itemcontent {
+  float: left;
+  width:625px;
+  margin-top:15px;
+  margin-bottom: 15px;
+  font-family: Tahoma, Arial;
+  font-size: 14px;
+  text-align: justify;
+ }
