@@ -1,0 +1,36 @@
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.htaccess
+#	.travis.yml
+#	application/
+#	composer.json
+#	dumper/
+#	favicon.gif
+#	index.php
+#	modules/
+#	public/
+#	status.txt
+#	system/
+#	uploads/
+#	vendor/
+nothing added to commit but untracked files present (use "git add" to track)
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.htaccess
+#	.travis.yml
+#	application/
+#	composer.json
+#	dumper/
+#	favicon.gif
+#	index.php
+#	modules/
+#	public/
+#	status.txt
+#	system/
+#	uploads/
+#	vendor/
+nothing added to commit but untracked files present (use "git add" to track)
